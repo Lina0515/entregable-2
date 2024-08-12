@@ -1,0 +1,51 @@
+body{
+    
+    background-image: url("./imagenes/mq.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+*{
+
+ font-family: "Fredoka", sans-serif;
+
+}
+
+
+.myButton{
+    
+    background-color: #fadaf9;
+    border: none;
+    color: #000000;
+    font-size: 1rem;
+    padding: 10px;
+    font-weight: 400;
+
+    border-radius: 20px;
+}
+
+.myButton:hover{
+
+    background-color: azure;
+    color: #fadaf9;
+
+}
+
+.myTittle{
+
+    font-size: 4rem;
+    color:rgb(197, 91, 174);
+    margin-bottom: 50px;
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+   
+    font-size: 1rem;
+
+}
+
